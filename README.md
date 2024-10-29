@@ -4,9 +4,13 @@ This amplifier circuit amplifies audio signals up to 100 watts, suitable for use
 
 # Features
 Class AB Operation: Reduces crossover distortion while maintaining efficiency.
+
 Push-Pull Output: Minimizes even-order harmonics for improved audio clarity.
+
 Thermal Compensation: Diode-based thermal compensation to stabilize operation.
+
 High Output Power: Delivers up to 100W into an 8-ohm speaker load.
+
 Dual Power Supply: Operates on ±35V for high output voltage range. 
 
 # Circuit Explanation
