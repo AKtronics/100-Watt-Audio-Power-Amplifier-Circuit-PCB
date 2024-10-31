@@ -25,10 +25,14 @@ High-power transistors (2N2222 in this version) are used in a push-pull configur
 5. Power Supply
 This amplifier circuit requires a ±35V dual power supply to achieve high output swing and power delivery.
 
-#Areas of Improvement
+# Areas of Improvement
 Grounding Optimization: To reduce potential noise in the audio output, future iterations would benefit from a solid ground plane instead of narrow ground traces. This change would help minimize ground loop noise and improve signal integrity.
+
 Decoupling Capacitors: Adding high-frequency decoupling capacitors close to power pins on key components would enhance stability and reduce susceptibility to power fluctuations, particularly in audio-sensitive circuits.
+
 Thermal Management: The power transistors may require additional thermal management, such as heat sinks or thermal vias, to ensure consistent performance over extended use and prevent overheating.
+
 Trace Width Adjustments: Increasing the width of power and ground traces would reduce resistance and improve current handling, leading to a more robust design.
 Component Placement and Signal Routing: Improved placement of sensitive analog components and careful routing of signal paths could further reduce noise interference, enhancing audio clarity.
+
 These enhancements would improve the overall reliability, noise performance, and durability of the circuit, especially for applications that demand higher audio fidelity.
